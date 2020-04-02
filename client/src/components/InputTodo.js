@@ -21,7 +21,7 @@ const InputTodo = () => {
 
   return (
     <>
-      <h1 className="text-center mt-5">Procastinator</h1>
+      <h1 className="text-center mt-5">Procrastinator</h1>
       <form className="d-flex mt-5" onSubmit={onSubmitForm}>
         <input
           type="text"
